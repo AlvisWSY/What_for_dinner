@@ -20,7 +20,17 @@
 ## Results:
 
 Some visualized results are uploaded inside the Pics Folder
+
 (Cus i dont know how to add the image here:( )
+
+### Prediction: 
+
+when the point settled on the diagonal means Prediction fits truth. 
+(X-axis is the real score of a movie, Y-axis is the prediction score of a movie)
+
+### Anomaly:
+
+the yellow points are normal points (i.e. whose score fits our model's prediction); the purple ones means anomaly occurs.
 
 
 
