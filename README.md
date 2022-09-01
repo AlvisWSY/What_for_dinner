@@ -1,5 +1,71 @@
 # What_for_dinner
-This is a record of my UG Y2S1 DSAI proj, which is built with other 3 teamates (if i found their Github im going to @them)
+```
+This is a record of my UG Y2S1 DSAI proj, which is built with other 3 teamates (when i find their Github account im going to @them)
+```
+## Development Log:
+
+### Sample Collection
+
+✅10% for coming up with an interesting problem based on the dataset
+- Which dataset to work on?
+
+        https://www.kaggle.com/syedmubarak/netflix-dataset-latest-2021
+
+- What is the objective?/ problem that aiming to solve (Movie)
+
+        Movies not recommended for a student who is a movie lover
+
+- Which type of ML project (regression/classification/clustering/anomaly) have you done?
+
+  1. Classification: Popularity of several genres of movie
+  2. Clustering: Popularity of several genres of movie
+  3. Anomaly: High-rated movies with low box office, Low-rated movies with high box office
+  4. Regression:Relationship between rating and popularity? Are the scores and popularity related to the director, writer and actor of the movie
+
+----------------------------------------------------------------------------------------------------------------- 
+### Data Preparation - arrange raw data for analysis
+
+✅10% for preparing the dataset to suit your specific problem definition
+
+  1.Clean dataset
+  
+  2.Structure data
+  
+  3.Remove outliers
+
+----------------------------------------------------------------------------------------------------------------- 
+### Exploratory Data Analysis - basic insight from data
+✅5% for exploratory data analysis
+Data mining 
+Compute relevant vital statistics
+
+### Analytic Visualization
+✅5% for visualization to understand the data
+Visually represent statistics
+Highlight “interesting” traits i.e. 6 dimensions: accuracy, completeness, consistency, timeliness, validity, and uniqueness
+
+### Algorithmic Optimization (Machine learning)
+✅20% for the use of data science / machine learning to solve the problem
+Problem solving 
+Reduce error
+Generalize the Algorithms
+
+Information Presentation - draw conclusion 
+Present Descriptive Analysis & Inferential Analysis
+Estimate the confidence
+
+Requirements
+new DS/ML model for regression, classification, clustering or anomaly detection
+new visualization tool (like Plotly)
+new technique for data preparation (like resampling)
+explore additional data (to add to the given datasets).
+
+
+
+
+<details><summary>CLICK ME</summary>
+
+<p>
 
 -------------------EE0005_What_For_Dinner_Grp_Mini_Proj.-----------------------------
 
@@ -35,49 +101,8 @@ next time if i have a chance to do such a job, i will use co-lab first....
 (keep safe stay healthy!) <3
 
 --------------------------------------------------------------------------------------------------
-Development Log:
 
-Sample Collection
-✅10% for coming up with an interesting problem based on the dataset
-Which dataset to work on?
-https://www.kaggle.com/syedmubarak/netflix-dataset-latest-2021
-What is the objective?/ problem that aiming to solve (Movie)
-Movies not recommended for a student who is a movie lover
-Which type of ML project (regression/classification/clustering/anomaly) have you done?
-Classification: Popularity of several genres of movie
-Clustering: Popularity of several genres of movie
-Anomaly: High-rated movies with low box office, Low-rated movies with high box office
-Regression:Relationship between rating and popularity? Are the scores and popularity related to the director, writer and actor of the movie
 
- 
-Data Preparation - arrange raw data for analysis
-✅10% for preparing the dataset to suit your specific problem definition
-Clean dataset
-Structure data
-Remove outliers
+</p>
 
-Exploratory Data Analysis - basic insight from data
-✅5% for exploratory data analysis
-Data mining 
-Compute relevant vital statistics
-
-Analytic Visualization
-✅5% for visualization to understand the data
-Visually represent statistics
-Highlight “interesting” traits i.e. 6 dimensions: accuracy, completeness, consistency, timeliness, validity, and uniqueness
-
-Algorithmic Optimization (Machine learning)
-✅20% for the use of data science / machine learning to solve the problem
-Problem solving 
-Reduce error
-Generalize the Algorithms
-
-Information Presentation - draw conclusion 
-Present Descriptive Analysis & Inferential Analysis
-Estimate the confidence
-
-Requirements
-new DS/ML model for regression, classification, clustering or anomaly detection
-new visualization tool (like Plotly)
-new technique for data preparation (like resampling)
-explore additional data (to add to the given datasets).
+</details>
