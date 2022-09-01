@@ -18,7 +18,9 @@
 
 ----------------------------------------------------------------------------------------------------------------- 
 ## Results:
-![This is Cluster](/main//Pics/cluster.png)
+
+Some visualized results are uploaded inside the Pics Folder
+(Cus i dont know how to add the image here:( )
 
 
 
