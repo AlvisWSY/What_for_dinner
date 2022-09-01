@@ -4,6 +4,17 @@
 
 *And the aim of this mini proj was to find out the most ***_unpopular_*** movies from a dataset*
 
+----------------------------------------------------------------------------------------------------------------- 
+## Libraries used:
+
+1. numpy
+2. sklearn
+3. matplot
+4. wordcloud
+5. pandas
+6. seaborn
+
+
 ## Development Log:
 
 ### Sample Collection
