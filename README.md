@@ -13,7 +13,7 @@
 
 - What is the objective/ problem that aiming to solve? 
 
-        Find out those movies are not recommended for a student who is a movie lover
+  Find out those movies are not recommended for a student who is a movie lover
 
 - What type of **ML project (_regression/classification/clustering/anomaly_)** have you done?
 
