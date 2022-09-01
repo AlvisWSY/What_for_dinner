@@ -21,7 +21,7 @@
 
 Some visualized results are uploaded inside the Pics Folder
 
-(Cus i dont know how to add the image here:( )
+Cus i dont know how to add the image here :( 
 
 ### Prediction: 
 
@@ -32,7 +32,14 @@ when the point settled on the diagonal means Prediction fits truth.
 
 the yellow points are normal points (i.e. whose score fits our model's prediction); the purple ones means anomaly occurs.
 
+### Clustering:
 
+the Movies data were devided according to 2 dimensions. And Devided into 3 or 4 parts due to the sub-DataFrame size. 
+
+
+## By using these methods we got a result that ***_Drama_*** might be the worst movie type in the view of boxoffice and score.
+
+----------------------------------------------------------------------------------------------------------------- 
 
 ## Development Log:
 
