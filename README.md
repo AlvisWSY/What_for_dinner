@@ -2,6 +2,8 @@
 
 *This is a record of my UG Y2S1 DSAI proj, which is built with other 3 teamates (when i find their Github account im going to @them)*
 
+*And the aim of this mini proj was to find out the most ***_unpopular_*** movies from a dataset*
+
 ## Development Log:
 
 ### Sample Collection
